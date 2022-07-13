@@ -1,0 +1,17 @@
+.App {
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 200px;
+  padding: 20px 0;
+  text-align: center;
+  background-color: #3178c6;
+  border-radius: 4px;
+}
+
+.content-title {
+  color: #fff;
+}
+
+.content-font {
+  color: #fff;
+}
